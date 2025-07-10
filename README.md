@@ -17,8 +17,8 @@ An intelligent learning assistant that helps students understand notes, ask ques
 
 ### 1. Clone the repo
 ```bash
-git clone https://github.com/Abhay-Kushwaha/Askly-AI-Note-Taker
-cd askly
+git clone https://github.com/abhinavtyagi88/AI-Notebook.git
+cd AI-Notebook
 ```
 
 ### 2. Install dependencies
